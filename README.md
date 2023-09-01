@@ -6,3 +6,5 @@ This repo contains the code for my master thesis on SOTA generative language mod
 
 The code is still messy and in jupyter notebook format as it was developed on Google Colab.
 
+Importantly, note that the 'Replication_Title_generation_with_tuned_LLaMa_models.ipynb' notebook uses the LLaMa-1 generation as LLaMa-2 requires a permit by META AI.
+
