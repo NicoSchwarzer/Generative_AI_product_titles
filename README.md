@@ -50,9 +50,9 @@ Further files are used for discriminator training and counterfactual calculation
 This folder contains files used to set up thumbnails shown on the survey and further metadata needed for setting up a survey using *Unipark*. Also, a file analyzing survey results and a file used for training the model based on these can be found here.
 
 ## *5_Generate_your_own_titles*
-See above 😊
+See above :)
 
-
+## Contact me!
 Feel free to contact me for access to data and models - on in case of questions: nico.schwarzer97@gmail.com
 
 **References**
