@@ -52,8 +52,11 @@ This folder contains files used to set up thumbnails shown on the survey and fur
 ## *5_Generate_your_own_titles*
 See above :)
 
-## Contact me!
+## Contact me
 Feel free to contact me for access to data and models - on in case of questions: nico.schwarzer97@gmail.com
+
+
+
 
 **References**
 
