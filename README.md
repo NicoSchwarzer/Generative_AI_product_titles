@@ -31,6 +31,19 @@ To leverage my models to easily generate titles, consider the files in the folde
 As stated above, the first four folders contain all code I wrote for this project. Here is some information on the files in the corresponding folders.
 
 ## *1_data_retrieval*
+This folder contains files used for data retrieval, including scraping the listings main images. 
+
+### *2_title_generation *
+This folder contains two subfolders. 
+
+The first one, *summarization_transformers* contains the files used for finetuning pre-trained (Distil)BART & PEGASUS models.
+
+The second one, *LLaMa_tuning * contains the files used for PEFT-based LLaMa optimization for both generations of LLaMa. It also contains files used to generate titlrs using non-optimized LLaMa models and a file used to fine-tuned LLaMa on all listings.
+
+### *3_discriminator_counterfactuals *
+This folder contains files to finetune an SBERT model using Masked Language Modelling and Negative Multiple Ranking using the AirBnB data. This model is used to embed the description and the titles.
+Also, a file is used to create further variables as inputs to the discriminator model. 
+Further files are used for discriminator training and counterfactual calculation.
 
 Cite:
 Lora
