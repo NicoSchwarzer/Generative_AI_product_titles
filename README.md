@@ -24,7 +24,7 @@ This REPO contains all code for this project as well as code for you to easily u
 ## Working with my code
 
 To replicate all steps, you merely need a few dataframes, which I can provide. Note that as I used Google drive as the storage option, I read in all files form there. 
-To leverage my models to easily generate titles, consider the files in the folder “5_Generate_your_own_titles”. Once you have requested the models from me, you can easily run the functions attached to generate titles for given descriptions based on a model of your choice. 
+To leverage my models to easily generate titles, consider the files in the folder **5_Generate_your_own_titles**. Once you have requested the models from me, you can easily run the functions attached to generate titles for given descriptions based on a model of your choice. 
 
 ## Structure of the code 
 
