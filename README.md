@@ -7,7 +7,9 @@ Firstly, I fine-tune pre-trained Transformer, i.e. DistilBART, BART (1) and PEGA
 
 To test if machine-generated titles are more attractive, two evaluation approaches are deployed. Firstly, I train a multi-modal discriminator which maps from the title and many confoudners (from modalities text, images and tabular data) to the the difference in reviews across nine months (a proxy to occupancy) - see th figure below. This allows for the calculation of counterfactual occupancies – under the assumption of different listing names
 
+<p align="center">
 <img src="https://github.com/NicoSchwarzer/Generative_AI_product_titles/blob/main/3_discriminator_counterfactuals/mm_design.PNG" width="425" height="200">
+</p>
 
 
 I also conducted a survey in which respondents could pick a preferred title amongst four alternatives. A deep learning model could learn the relationship between titles and their perceived attractiveness.
