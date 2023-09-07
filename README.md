@@ -15,7 +15,7 @@ To test if machine-generated titles are more attractive, two evaluation approach
 I also conducted a survey in which respondents could pick a preferred title amongst four alternatives. A deep learning model could learn the relationship between titles and associated descriptions and their perceived attractiveness - as is displayed below.
 
 <p align="center">
-<img src="https://github.com/NicoSchwarzer/Generative_AI_product_titles/blob/main/3_discriminator_counterfactuals/mm_design.PNG" width="425" height="200">
+<img src="https://github.com/NicoSchwarzer/Generative_AI_product_titles/blob/main/4_survey/discriminator_2.PNG" width="425" height="170">
 </p>
 
 
