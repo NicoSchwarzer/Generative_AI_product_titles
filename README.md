@@ -56,8 +56,6 @@ See above :)
 Feel free to contact me for access to data and models - on in case of questions: nico.schwarzer97@gmail.com
 
 
-
-
 **References**
 
 (1) Lewis, M., Liu, Y., Goyal, N., Ghazvininejad, M., Mohamed, A., Levy, O., & Zettlemoyer, L. (2019). Bart: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension. arXiv preprint arXiv:1910.13461.
