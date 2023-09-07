@@ -28,8 +28,9 @@ To leverage my models to easily generate titles, consider the files in the folde
 
 ## Structure of the code 
 
+As stated above, the first four folders contain all code I wrote for this project. Here is some information on the files in the corresponding folders.
 
-
+### *1_data_retrieval*
 
 
 
