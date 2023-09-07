@@ -5,7 +5,7 @@ Specifically, I use the listing description as the feature to condition the titl
 
 Firstly, I fine-tune pre-trained Transformer, i.e. DistilBART, BART (1) and PEGASUS (2). I also make use of LLaMa (3) (by META AI) combined with parameter-efficient fine-tuning (PEFT) mechanisms, namely LoRA (4) and LLaMa-Adapters (5). The training set is compromised of high-quality listings.
 
-To test if machine-generated titles are more attractive, two evaluation approaches are deployed. Firstly, I train a multi-modal discriminator which maps from the title and many confoudners to the occupancy metric and thus allows for the calculation of counterfactual occupancies – under the assumption of different listing names. I also conducted a survey in which respondents could pick a preferred title amongst four alternatives. A deep learning model could learn the relationship between titles and their perceived attractiveness.
+To test if machine-generated titles are more attractive, two evaluation approaches are deployed. Firstly, I train a multi-modal discriminator which maps from the title and many confoudners to the the difference in reviews across nine months (a proxy to occupancy) and thus allows for the calculation of counterfactual occupancies – under the assumption of different listing names. I also conducted a survey in which respondents could pick a preferred title amongst four alternatives. A deep learning model could learn the relationship between titles and their perceived attractiveness.
 
 This REPO contains all code for this project as well as code for you to easily use the models to generate further titles.
 
