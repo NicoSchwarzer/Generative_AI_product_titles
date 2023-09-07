@@ -53,13 +53,20 @@ This folder contains files used to set up thumbnails shown on the survey and fur
 See above 😊
 
 
+Feel free to contact me for access to data and models - on in case of questions: nico.schwarzer97@gmail.com
+
 **References**
 
 (1) Lewis, M., Liu, Y., Goyal, N., Ghazvininejad, M., Mohamed, A., Levy, O., & Zettlemoyer, L. (2019). Bart: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension. arXiv preprint arXiv:1910.13461.
+
 (2) Zhang, J., Zhao, Y., Saleh, M., & Liu, P. J. (2020). Pegasus: Pre-training with extracted gap-sentences for abstractive summarization. In International Conference on Machine Learning, 11328–11339.
+
 (3) Touvron, H., Lavril, T., Izacard, G., Martinet, X., Lachaux, M. A., Lacroix, T., & Lample, G. (2023). Llama: Open and efficient foundation language models. arXiv preprint arXiv:2302.13971 
+
 (4) Hu, E. J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, S., & Chen, W. (2021). Lora: Low-rank adaptation of large language models. arXiv preprint arXiv:2106.09685 .
+
 (5) Zhang, R., Han, J., Zhou, A., Hu, X., Yan, S., Lu, P., & Qiao, Y. (2023). Llama-adapter: Efficient fine-tuning of language models with zero-init attention. arXiv preprint arXiv:2303.16199.
+
 (6) Lightning-AI (2023, May). Lit-llama release. Retrieved from https://github.com/Lightning-AI/lit-llama
 
 
