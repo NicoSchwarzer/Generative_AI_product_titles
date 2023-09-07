@@ -30,18 +30,7 @@ To leverage my models to easily generate titles, consider the files in the folde
 
 As stated above, the first four folders contain all code I wrote for this project. Here is some information on the files in the corresponding folders.
 
-### *1_data_retrieval*
-
-
-
-
-To
-
-
- 
-to optimize product titles using AirBnB listings as an example. Subsequently, I deploy two sophisticated methods (multi-modal deep-learning based and RLHF-inspired) to judge the quality of the generated titles. 
-
-Drive/colab!
+## *1_data_retrieval*
 
 Cite:
 Lora
