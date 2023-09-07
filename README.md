@@ -71,9 +71,3 @@ Feel free to contact me for access to data and models - on in case of questions:
 (5) Zhang, R., Han, J., Zhou, A., Hu, X., Yan, S., Lu, P., & Qiao, Y. (2023). Llama-adapter: Efficient fine-tuning of language models with zero-init attention. arXiv preprint arXiv:2303.16199.
 
 (6) Lightning-AI (2023, May). Lit-llama release. Retrieved from https://github.com/Lightning-AI/lit-llama
-
-
-
-
-- contact me for models and questions
-
