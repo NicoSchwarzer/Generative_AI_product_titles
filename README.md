@@ -53,7 +53,7 @@ This folder contains files used to set up thumbnails shown on the survey and fur
 See above :)
 
 ## Contact me
-Feel free to contact me for access to data and models - on in case of questions: nico.schwarzer97@gmail.com
+Feel free to contact me for access to data and models - or in case of questions: nico.schwarzer97@gmail.com
 
 
 **References**
